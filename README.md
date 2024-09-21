@@ -8,17 +8,17 @@ This repository documents my learning experiences, projects, and growth during m
 - HTML & CSS for front-end development
 - Node.js (Future learning)
 
-3. Projects
+3. Project
    Rock, Paper, Scissors Game
 - **Description**: Created a simple JavaScript-based game to practice conditional statements.
 - **Technologies**: JavaScript
 
-- 4. Goals for the Internship
-     1. Master Git and GitHub for professional workflows.
-2. Become proficient in JavaScript fundamentals and DOM manipulation.
-3. Build and deploy 2-3 web projects.
-4. Collaborate on at least one group project with my peers.
-5. Learn the basics of Node.js for back-end development.
+4. Goals for the Internship
+ 1. Master Git and GitHub for professional workflows.
+ 2. Become proficient in JavaScript fundamentals and DOM manipulation.
+ 3. Build and deploy 2-3 web projects.
+ 4. Collaborate on at least one group project with my peers.
+ 5. Learn the basics of Node.js for back-end development.
 
 5. Key Learnings
    Week 1
